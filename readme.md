@@ -8,7 +8,8 @@ It basically explains the venue , date and time of the event and how you can eas
 <a href="https://www.figma.com/file/gdCVLuAtUZgZd6UXInPexH/Untitled?type=design&node-id=6%3A52&mode=design&t=hDpfaBTBWYktianF-1">Click here for the figma link</a>
 
 ## LIVE LINK 
-View my live link : <a href="joymuluki.github.io/doness/">Live link</a>
+View my live link : <a href="https://joymuluki.github.io/doness/">Live link</a>
+
 
 ## TECHNOLOGIES USED 
 HTML    
